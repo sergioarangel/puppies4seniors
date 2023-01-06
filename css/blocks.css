@@ -1,0 +1,34 @@
+.wrapper {
+    width:1200px;
+    margin:auto;
+}
+
+.ib {
+    display:inline-block;
+    margin: 1px;
+}
+
+.i1 {
+    width:1195px;
+}
+.i2 {
+    width:595px;
+}
+.i3 {
+    width:390px;
+}
+.i4 {
+    width:295px;
+}
+
+.i5 {
+    width:220px;
+}
+
+.iprod {
+    width:365px
+}
+
+.prodcenter{
+    object-position: center;
+}
