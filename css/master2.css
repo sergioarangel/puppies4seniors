@@ -183,6 +183,10 @@ nav {
     order: 1;
 }
 
+.center{
+    text-align:center;
+}
+
 .nav_links {
     list-style: none;
 }
