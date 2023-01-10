@@ -196,13 +196,13 @@ nav {
     padding: 0px 20px;
 }
 
-.socials:hover{
-    color: #f7a5bb;
+a{
+    color: #505050;
     transition: all 0.3s ease 0s;
 }
 
-.socials{
-    color: #505050;
+a:hover{
+    color: #f7a5bb;
     transition: all 0.3s ease 0s;
 }
 
